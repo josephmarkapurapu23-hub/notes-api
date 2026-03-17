@@ -1,0 +1,4 @@
+env = qa
+base_url = https://qa-notes-api.example.com
+timeout = 30
+retry = 3
